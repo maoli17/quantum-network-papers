@@ -6,7 +6,8 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2024
-
+-   [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), arXiv
+-   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
 -   [Leveraging Internet Principles to Build a Quantum Network](https://arxiv.org/abs/2410.08980), arXiv
 -   [Entanglement Routing in Quantum Networks: A Comprehensive Survey](https://arxiv.org/abs/2408.01234), arXiv
 -   [Entanglement Distribution Delay Optimization in Quantum Networks with Distillation](https://arxiv.org/abs/2405.09034), arXiv

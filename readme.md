@@ -5,8 +5,16 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
+### 2025
+-  Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch, INFOCOM
+-  QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution, INFOCOM
+-  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM`
+-  Fortuna: Towards Efficient Selection of High-Fidelity Link for Quantum Network in the Wild, INFOCOM
+-  Learning Best Paths in Quantum Networks, INFOCOM
+-  Enhancing Position Verification in Multi-Node Quantum Networks, INFOCOM
+-  Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks, INFOCOM
+
 ### 2024
--   [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), arXiv
 -   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
 -   [Leveraging Internet Principles to Build a Quantum Network](https://arxiv.org/abs/2410.08980), arXiv
 -   [Entanglement Routing in Quantum Networks: A Comprehensive Survey](https://arxiv.org/abs/2408.01234), arXiv

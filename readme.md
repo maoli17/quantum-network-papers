@@ -8,7 +8,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 ### 2025
 -  Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch, INFOCOM
 -  QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution, INFOCOM
--  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM`
+-  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM
 -  Fortuna: Towards Efficient Selection of High-Fidelity Link for Quantum Network in the Wild, INFOCOM
 -  Learning Best Paths in Quantum Networks, INFOCOM
 -  Enhancing Position Verification in Multi-Node Quantum Networks, INFOCOM

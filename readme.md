@@ -15,6 +15,8 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -  Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks, INFOCOM
 
 ### 2024
+-   [From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing](https://arxiv.org/abs/2408.08243), ICNP
+-   [Efficient Routing on Quantum Networks using Adaptive Clustering](https://arxiv.org/abs/2410.23007), ICNP
 -   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
 -   [Leveraging Internet Principles to Build a Quantum Network](https://arxiv.org/abs/2410.08980), arXiv
 -   [Entanglement Routing in Quantum Networks: A Comprehensive Survey](https://arxiv.org/abs/2408.01234), arXiv

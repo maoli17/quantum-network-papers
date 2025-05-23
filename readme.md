@@ -6,6 +6,7 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
+-   [On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations](https://doi.org/10.22331/q-2025-05-15-1744), Quantum
 -  Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch, INFOCOM
 -  QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution, INFOCOM
 -  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM
@@ -29,6 +30,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Quantum BGP with Online Path Selection via Network Benchmarking](https://doi.org/10.1109/INFOCOM52122.2024.10621359), INFOCOM
 -   [Towards QoS-aware Quantum Networks](https://doi.org/10.1109/QCNC62729.2024.00052), QCNC
 -   [On the Trade-off between Fidelity and Latency for the Quantum Link Layer with few Memories and Entanglement Purification](https://doi.org/10.1109/QCNC62729.2024.00013), QCNC
+-   [Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks](https://doi.org/10.1109/QCNC62729.2024.00032), QCNC
 -   [Multi-User Entanglement Routing Design over Quantum Internets](https://doi.org/10.1109/ICDCS60910.2024.00033), ICDCS
 -   [EPS Placement and Lightweight Entanglement Routing for Quantum Data Networks](https://doi.org/10.1109/ICDCS60910.2024.00113), ICDCS
 -   [Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://doi.org/10.1109/ICDCS60910.2024.00114), ICDCS
@@ -62,6 +64,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [SPARQ: Efficient Entanglement Distribution and Routing in Space–Air–Ground Quantum Networks](https://doi.org/10.1109/TQE.2024.3464572), TQE
 -   [Tools for the Analysis of Quantum Protocols Requiring State Generation Within a Time Window](https://doi.org/10.1109/TQE.2024.3358674), TQE
 -   [Quantum Network Tomography](https://doi.org/10.1109/MNET.2024.3403805), IEEE Network
+-   [Minerva: Enhancing Quantum Network Performance for High-Fidelity Multimedia Transmission](https://doi.org/10.1145/3664647.3681142), ACM MM
 
 ### 2023
 
@@ -129,6 +132,8 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Entanglement Distribution in a Quantum Network: A Multicommodity Flow-Based Approach](https://doi.org/10.1109/TQE.2020.3028172), TQE
 -   [Protocols for Creating and Distilling Multipartite GHZ States With Bell Pairs](https://doi.org/10.1109/TQE.2020.3044179), TQE
 -   [Efficient Computation of the Waiting Time and Fidelity in Quantum Repeater Chains](https://doi.org/10.1109/JSAC.2020.2969037), JSAC
+-   [Quantum Queuing Delay](https://doi.org/10.1109/JSAC.2020.2969000), JSAC
+-   [Optimal Remote Entanglement Distribution](https://doi.org/10.1109/JSAC.2020.2969005), JSAC
 
 ### Earlier
 

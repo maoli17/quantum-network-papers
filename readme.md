@@ -6,6 +6,8 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
+-   [A Modular Quantum Network Architecture for Integrating Network Scheduling with Local Program Execution](https://arxiv.org/pdf/2503.12582), arXiv
+-   [On Selecting Paths for End-to-End Entanglement Creation in Quantum Networks](https://arxiv.org/pdf/2505.02283v1), arXiv
 -   [On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations](https://doi.org/10.22331/q-2025-05-15-1744), Quantum
 -  Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch, INFOCOM
 -  QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution, INFOCOM
@@ -17,6 +19,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 
 ### 2024
 -   [From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing](https://arxiv.org/abs/2408.08243), ICNP
+-   [On Fidelity-Oriented Entanglement Distribution for Quantum Switches](https://doi.org/10.1109/JETCAS.2024.3425712), JETCAS
 -   [Efficient Routing on Quantum Networks using Adaptive Clustering](https://arxiv.org/abs/2410.23007), ICNP
 -   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
 -   [Leveraging Internet Principles to Build a Quantum Network](https://arxiv.org/abs/2410.08980), arXiv

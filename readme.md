@@ -46,7 +46,6 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
 -   [Entanglement Routing in Quantum Networks: A Comprehensive Survey](https://arxiv.org/abs/2408.01234), arXiv
 -   [Entanglement Distribution Delay Optimization in Quantum Networks with Distillation](https://arxiv.org/abs/2405.09034), arXiv
--   [Routing in Quantum Networks with End-to-End Knowledge](https://arxiv.org/abs/2407.14407), arXiv
 -   [Analysis of Asynchronous Protocols for Entanglement Distribution in Quantum Networks](https://arxiv.org/abs/2405.02406), arXiv
 -   [Routing and Photon Source Provisioning in Quantum Key Distribution Networks](https://doi.org/10.1109/INFOCOM52122.2024.10621389), INFOCOM
 -   [Routing and Wavelength Assignment for Entanglement Swapping of Photonic Qubits](https://doi.org/10.1109/INFOCOM52122.2024.10621354), INFOCOM
@@ -92,7 +91,6 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 
 ### 2023
 -   [Concurrent multipath quantum entanglement routing based on segment routing in quantum hybrid networks](https://link.springer.com/article/10.1007/s11128-023-03891-9), Quantum Information Processing
--   [Entanglement Management through Swapping over Quantum Internets](https://doi.org/10.1145/3626570.3626595), SIGMETRICS
 -   [A Quantum Overlay Network for Efficient Entanglement Distribution](https://doi.org/10.1109/INFOCOM53939.2023.10228944), INFOCOM
 -   [Asynchronous Entanglement Provisioning and Routing for Distributed Quantum Computing](https://doi.org/10.1109/INFOCOM53939.2023.10229101), INFOCOM
 -   [Qubit Allocation for Distributed Quantum Computing](https://doi.org/10.1109/INFOCOM53939.2023.10228915), INFOCOM
@@ -106,25 +104,27 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Swapping-Based Entanglement Routing Design for Congestion Mitigation in Quantum Networks](https://doi.org/10.1109/TNSM.2023.3275815), TNSM
 -   [ESDI: Entanglement Scheduling and Distribution in the Quantum Internet](https://doi.org/10.1109/ICCCN58024.2023.10230193), ICCCN
 -   [Concurrent Entanglement Routing for Quantum Networks: Model and Designs](https://doi.org/10.1109/TNET.2023.3343748), ToN
+    -   Conference version: [Concurrent Entanglement Routing for Quantum Networks: Model and Designs](https://doi.org/10.1145/3387514.3405853), SIGCOMM 2020
 -   [Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks](https://doi.org/10.1109/TNET.2023.3285093), ToN
 -   [Segmented Entanglement Establishment With All-Optical Switching in Quantum Networks](https://doi.org/10.1109/TNET.2023.3281901), ToN
 -   [Entanglement Routing Design Over Quantum Networks](https://doi.org/10.1109/TNET.2023.3282560), ToN
+    -   Conference version: [Multi-Entanglement Routing Design over Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796810), INFOCOM 2022
 -   [Distributed Transport Protocols for Quantum Data Networks](https://doi.org/10.1109/TNET.2023.3262547), ToN
 -   [Fast and Secure Routing Algorithms for Quantum Key Distribution Networks](https://doi.org/10.1109/TNET.2023.3246114), ToN
--   [An Architecture for Control of Entanglement Generation Switches in Quantum Networks](https://doi.org/10.1109/TQE.2023.3320047), TQE
 -   [Multiuser Entanglement Distribution in Quantum Networks Using Multipath Routing](https://doi.org/10.1109/TQE.2023.3329714), TQE
 -   [A benchmarking procedure for quantum networks](https://doi.org/10.1038/s41534-022-00628-x), npj quantum information
 -   [Optimal entanglement distribution policies in homogeneous repeater chains with cutoffs](https://doi.org/10.1038/s41534-023-00713-9), npj quantum information
 -   [On the Capacity Region of Bipartite and Tripartite Entanglement Switching](https://doi.org/10.1145/3571809), ToMPECS
 -   [Quantum Network Planning for Utility Maximization](https://doi.org/10.1145/3610251.3610553), QuNet
+-   [An Architecture for Control of Entanglement Generation Switches in Quantum Networks](https://doi.org/10.1109/TQE.2023.3320047), TQE
 -   [A Control Architecture for Entanglement Generation Switches in Quantum Networks](https://doi.org/10.1145/3610251.3610552), QuNet
 -   [Entanglement Management Through Swapping Over Quantum Internets](https://doi.org/10.1109/MNET.2023.3327232), IEEE Network
+-   [Entanglement Management through Swapping over Quantum Internets](https://doi.org/10.1145/3626570.3626595), SIGMETRICS
 
 ### 2022
 -   [A Multiple-Entanglement Routing Framework for Quantum Networks](https://arxiv.org/pdf/2207.11817), arXiv
 -   [Experimental demonstration of entanglement delivery using a quantum network stack](https://www.nature.com/articles/s41534-022-00631-2), npj quantum information
 -   [E2E Fidelity Aware Routing and Purification for Throughput Maximization in Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796814), INFOCOM
--   [Multi-Entanglement Routing Design over Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796810), INFOCOM
 -   [Opportunistic Routing in Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796816), INFOCOM
 -   [Quantum Network Tomography with Multi-party State Distribution](https://doi.org/10.1109/QCE53715.2022.00061), QCE
 -   [Pre-Distribution of Entanglements in Quantum Networks](https://doi.org/10.1109/QCE53715.2022.00064), QCE
@@ -151,7 +151,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 
 ### 2020
 -   [On the analysis of a multipartite entanglement distribution switch](https://doi.org/10.1145/3392141), SIGMETRICS
--   [Concurrent Entanglement Routing for Quantum Networks: Model and Designs](https://doi.org/10.1145/3387514.3405853), SIGCOMM
+
 -   [Designing a Quantum Network Protocol](https://doi.org/10.1145/3386367.3431293), CoNEXT
 -   [Efficient Routing for Quantum Key Distribution Networks](https://doi.org/10.1109/QCE49297.2020.00027), QCE
 -   [Efficient Optimization of Cut-offs in Quantum Repeater Chains](https://doi.org/10.1109/QCE49297.2020.00029), QCE

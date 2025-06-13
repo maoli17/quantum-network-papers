@@ -6,6 +6,20 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
+-   [Entanglement Distribution Over Quantum Networks with Fairness Guarantees](https://doi.org/10.1109/WCNC61545.2025.10978693), WCNC
+-   [Adaptive Entanglement Generation for Quantum Routing](https://arxiv.org/abs/2505.08958), arXiv 
+-   [Statistical analysis of Multipath Entanglement Purification in Quantum Networks](https://arxiv.org/abs/2502.09011), arXiv
+-   [Entanglement buffering with multiple quantum memories](https://arxiv.org/pdf/2502.20240), arXiv
+-   [An operating system for executing applications on quantum network nodes](https://www.nature.com/articles/s41586-025-08704-w), Nature
+-   [Compilation strategies for quantum network programs using Qoala](https://arxiv.org/pdf/2505.06162), arXiv
+-   [Network-Aware Scheduling for Remote Gate Execution in Quantum Data Centers](https://arxiv.org/pdf/2504.20176), arXiv
+-   [Fidelity Aware Multipath Routing for Multipartite State Distribution in Quantum Networks](https://arxiv.org/abs/2503.03831), arXiv
+-   [Peer-to-Peer Distribution of Graph States Across Spacetime Quantum Networks of Arbitrary Topology](https://doi.org/10.1145/3727123), POMACS
+-   [Quantum Network Optimization: From Optimal Routing to Fair Resource Allocation](https://doi.org/10.1145/3727129), POMACS
+-   [Routing in quantum networks with end-to-end knowledge](https://doi.org/10.1049/qtc2.70000), IET Quantum Communication
+-   [Surrogate-guided optimization in quantum networks](https://doi.org/10.1038/s41534-025-01048-3), npj quantum information
+-   [Leveraging Internet Principles to Build a Quantum Network](https://doi.org/10.1109/MNET.2025.3569494), IEEE Network
+-   [CloudQC: A Network-aware Framework for Multi-tenant Distributed Quantum Computing](https://arxiv.org/abs/2504.20389), ICDCS
 -   [A Modular Quantum Network Architecture for Integrating Network Scheduling with Local Program Execution](https://arxiv.org/pdf/2503.12582), arXiv
 -   [On Selecting Paths for End-to-End Entanglement Creation in Quantum Networks](https://arxiv.org/pdf/2505.02283v1), arXiv
 -   [On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations](https://doi.org/10.22331/q-2025-05-15-1744), Quantum
@@ -18,11 +32,18 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -  [Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks](https://re.public.polimi.it/retrieve/c25803c9-4953-4391-81df-32a208ecc6ac/final_infocom25_link_configuration_for_entanglement_routing.pdf), INFOCOM
 
 ### 2024
+-   [The Quantum Internet: Principles, Protocols and Architectures](https://doi.org/10.1109/JSAC.2024.3379106), JSAC
+-   [Continuously distributing entanglement in quantum networks with regular topologies](https://doi.org/10.1103/PhysRevA.110.022429), Physical Review A
+-   [Resource Allocation for Rate and Fidelity Maximization in Quantum Networks](https://arxiv.org/pdf/2308.16264)
+-   [Comparing One-and Two-way Quantum Repeater Architectures](https://arxiv.org/abs/2409.06152), arXiv
+-   [Quantum Network Routing Based on Surface Code Error Correction](https://doi.org/10.1109/ICDCS60910.2024.00117), ICDCS
+-   [Purification scheduling control for throughput maximization in quantum networks](https://www.nature.com/articles/s42005-024-01796-2), Communications physics
+-   [On the exact analysis of an idealized quantum switch](https://doi.org/10.1016/j.peva.2020.102141), Performance Evaluation
+-   [S-QGPU: Shared quantum gate processing unit for distributed quantum computing](https://doi.org/10.1116/5.0241972), AVS Quantum Science
 -   [From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing](https://arxiv.org/abs/2408.08243), ICNP
 -   [On Fidelity-Oriented Entanglement Distribution for Quantum Switches](https://doi.org/10.1109/JETCAS.2024.3425712), JETCAS
 -   [Efficient Routing on Quantum Networks using Adaptive Clustering](https://arxiv.org/abs/2410.23007), ICNP
 -   [Fair-EAS: Entanglement Allocation and Selection for Process-Oriented Fairness in Quantum Communication Networks](https://doi.org/10.1109/TCOMM.2024.3516497), TCOMM
--   [Leveraging Internet Principles to Build a Quantum Network](https://arxiv.org/abs/2410.08980), arXiv
 -   [Entanglement Routing in Quantum Networks: A Comprehensive Survey](https://arxiv.org/abs/2408.01234), arXiv
 -   [Entanglement Distribution Delay Optimization in Quantum Networks with Distillation](https://arxiv.org/abs/2405.09034), arXiv
 -   [Routing in Quantum Networks with End-to-End Knowledge](https://arxiv.org/abs/2407.14407), arXiv
@@ -70,7 +91,8 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Minerva: Enhancing Quantum Network Performance for High-Fidelity Multimedia Transmission](https://doi.org/10.1145/3664647.3681142), ACM MM
 
 ### 2023
-
+-   [Concurrent multipath quantum entanglement routing based on segment routing in quantum hybrid networks](https://link.springer.com/article/10.1007/s11128-023-03891-9), Quantum Information Processing
+-   [Entanglement Management through Swapping over Quantum Internets](https://doi.org/10.1145/3626570.3626595), SIGMETRICS
 -   [A Quantum Overlay Network for Efficient Entanglement Distribution](https://doi.org/10.1109/INFOCOM53939.2023.10228944), INFOCOM
 -   [Asynchronous Entanglement Provisioning and Routing for Distributed Quantum Computing](https://doi.org/10.1109/INFOCOM53939.2023.10229101), INFOCOM
 -   [Qubit Allocation for Distributed Quantum Computing](https://doi.org/10.1109/INFOCOM53939.2023.10228915), INFOCOM
@@ -99,7 +121,8 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Entanglement Management Through Swapping Over Quantum Internets](https://doi.org/10.1109/MNET.2023.3327232), IEEE Network
 
 ### 2022
-
+-   [A Multiple-Entanglement Routing Framework for Quantum Networks](https://arxiv.org/pdf/2207.11817), arXiv
+-   [Experimental demonstration of entanglement delivery using a quantum network stack](https://www.nature.com/articles/s41534-022-00631-2), npj quantum information
 -   [E2E Fidelity Aware Routing and Purification for Throughput Maximization in Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796814), INFOCOM
 -   [Multi-Entanglement Routing Design over Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796810), INFOCOM
 -   [Opportunistic Routing in Quantum Networks](https://doi.org/10.1109/INFOCOM48880.2022.9796816), INFOCOM
@@ -127,7 +150,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Fragmentation-Aware Entanglement Routing for Quantum Networks](https://opg.optica.org/jlt/abstract.cfm?uri=jlt-39-14-4584), Journal of Lightwave Technology
 
 ### 2020
-
+-   [On the analysis of a multipartite entanglement distribution switch](https://doi.org/10.1145/3392141), SIGMETRICS
 -   [Concurrent Entanglement Routing for Quantum Networks: Model and Designs](https://doi.org/10.1145/3387514.3405853), SIGCOMM
 -   [Designing a Quantum Network Protocol](https://doi.org/10.1145/3386367.3431293), CoNEXT
 -   [Efficient Routing for Quantum Key Distribution Networks](https://doi.org/10.1109/QCE49297.2020.00027), QCE
@@ -146,3 +169,4 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [Towards Large-Scale Quantum Networks](https://doi.org/10.1145/3345312.3345497), NANOCOM
 -   [Distributed Routing in a Quantum Internet](https://arxiv.org/abs/1907.11630), arXiv
 -   [Purification and Entanglement Routing on Quantum Networks](https://arxiv.org/abs/2011.11644), arXiv
+-   [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463), Scientific reports, 2016

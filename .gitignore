@@ -1,0 +1,5 @@
+# Ignore Python files (e.g. *.py, __pycache__/, etc.)
+*.py
+__pycache__/
+*.py[cod]
+*$py.class 

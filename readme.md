@@ -27,7 +27,7 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -  [QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution](https://arxiv.org/abs/2501.15376), INFOCOM
 -  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM
 -  Fortuna: Towards Efficient Selection of High-Fidelity Link for Quantum Network in the Wild, INFOCOM
--  Learning Best Paths in Quantum Networks, INFOCOM
+-  [Learning Best Paths in Quantum Networks](https://arxiv.org/abs/2506.12462), INFOCOM
 -  [Enhancing Position Verification in Multi-Node Quantum Networks](https://ziyanzhang98.github.io/_pages/enhanced_position_verification.pdf), INFOCOM
 -  [Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks](https://re.public.polimi.it/retrieve/c25803c9-4953-4391-81df-32a208ecc6ac/final_infocom25_link_configuration_for_entanglement_routing.pdf), INFOCOM
 

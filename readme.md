@@ -6,6 +6,7 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
+-   [Unveiling the importance of nonshortest paths in quantum networks](https://doi.org/10.1126/sciadv.adt2404), Science Advances
 -   [Entanglement Distribution Over Quantum Networks with Fairness Guarantees](https://doi.org/10.1109/WCNC61545.2025.10978693), WCNC
 -   [Adaptive Entanglement Generation for Quantum Routing](https://arxiv.org/abs/2505.08958), arXiv 
 -   [Statistical analysis of Multipath Entanglement Purification in Quantum Networks](https://arxiv.org/abs/2502.09011), arXiv
@@ -23,13 +24,13 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 -   [A Modular Quantum Network Architecture for Integrating Network Scheduling with Local Program Execution](https://arxiv.org/pdf/2503.12582), arXiv
 -   [On Selecting Paths for End-to-End Entanglement Creation in Quantum Networks](https://arxiv.org/pdf/2505.02283v1), arXiv
 -   [On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations](https://doi.org/10.22331/q-2025-05-15-1744), Quantum
--  [Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch](https://robinbinluo.github.io/assets/files/quantum_switch-INFOCOM.pdf), INFOCOM
--  [QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution](https://arxiv.org/abs/2501.15376), INFOCOM
--  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://arxiv.org/abs/2412.08956), INFOCOM
--  Fortuna: Towards Efficient Selection of High-Fidelity Link for Quantum Network in the Wild, INFOCOM
--  [Learning Best Paths in Quantum Networks](https://arxiv.org/abs/2506.12462), INFOCOM
--  [Enhancing Position Verification in Multi-Node Quantum Networks](https://ziyanzhang98.github.io/_pages/enhanced_position_verification.pdf), INFOCOM
--  [Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks](https://re.public.polimi.it/retrieve/c25803c9-4953-4391-81df-32a208ecc6ac/final_infocom25_link_configuration_for_entanglement_routing.pdf), INFOCOM
+-  [Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch](https://ieeexplore.ieee.org/document/11044695), INFOCOM
+-  [QuESat: Satellite-Assisted Quantum Internet for Global-Scale Entanglement Distribution](https://ieeexplore.ieee.org/document/11044649), INFOCOM
+-  [Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks](https://ieeexplore.ieee.org/document/11044741), INFOCOM
+-  [Learning Best Paths in Quantum Networks](https://ieeexplore.ieee.org/document/11044499), INFOCOM
+-  [Enhancing Position Verification in Multi-Node Quantum Networks](https://ieeexplore.ieee.org/document/11044462), INFOCOM
+-  [Link Configuration for Fidelity-Constrained Entanglement Routing in Quantum Networks](https://ieeexplore.ieee.org/document/11044462), INFOCOM
+-  [Fortuna: Towards Efficient Selection of High-Fidelity Link for Quantum Network in the Wild](https://ieeexplore.ieee.org/document/11044624), INFOCOM
 
 ### 2024
 -   [The Quantum Internet: Principles, Protocols and Architectures](https://doi.org/10.1109/JSAC.2024.3379106), JSAC

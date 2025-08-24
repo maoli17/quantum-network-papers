@@ -6,6 +6,8 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
+
+-   [Piecemaker: a resource-efficient entanglement distribution protocol](https://arxiv.org/abs/2508.14737), arXiv
 -   [Unveiling the importance of nonshortest paths in quantum networks](https://doi.org/10.1126/sciadv.adt2404), Science Advances
 -   [Entanglement Distribution Over Quantum Networks with Fairness Guarantees](https://doi.org/10.1109/WCNC61545.2025.10978693), WCNC
 -   [Adaptive Entanglement Generation for Quantum Routing](https://arxiv.org/abs/2505.08958), arXiv 

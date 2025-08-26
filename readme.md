@@ -7,6 +7,9 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 
 ### 2025
 
+-   [Routing and Spectrum Allocation in Broadband Quantum Entanglement Distribution](https://doi.org/10.1109/JSAC.2025.3548794), JSAC
+-   [Quantum Communication Network Rougtting With Circuit and Packet Switching Strategies](https://doi.org/10.1109/JSAC.2025.3543524), JSAC
+-   [Entanglement Distribution Delay Optimization in Quantum Networks With Distillation](https://doi.org/10.1109/JSAC.2025.3543485), JSAC
 -   [Piecemaker: a resource-efficient entanglement distribution protocol](https://arxiv.org/abs/2508.14737), arXiv
 -   [Unveiling the importance of nonshortest paths in quantum networks](https://doi.org/10.1126/sciadv.adt2404), Science Advances
 -   [Entanglement Distribution Over Quantum Networks with Fairness Guarantees](https://doi.org/10.1109/WCNC61545.2025.10978693), WCNC

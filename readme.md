@@ -6,7 +6,7 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
 ### 2025
-
+-   [Cost-Aware High-Fidelity Entanglement Distribution and Purification in the Quantum Internet](https://doi.org/10.1109/TON.2025.3606263), ToN
 -   [Routing and Spectrum Allocation in Broadband Quantum Entanglement Distribution](https://doi.org/10.1109/JSAC.2025.3548794), JSAC
 -   [Quantum Communication Network Rougtting With Circuit and Packet Switching Strategies](https://doi.org/10.1109/JSAC.2025.3543524), JSAC
 -   [Entanglement Distribution Delay Optimization in Quantum Networks With Distillation](https://doi.org/10.1109/JSAC.2025.3543485), JSAC

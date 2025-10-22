@@ -5,8 +5,10 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 
-### 2025
-
+### 2025]
+-   [Multi-Entanglement Routing Design Over Quantum Networks Using Greenberger–Horne–Zeilinger Measurements](https://doi.org/10.1109/TON.2025.3608121), ToN
+-   [Multipath Inter-Domain Routing Protocols for Quantum Networks With Online Path Selection](https://doi.org/10.1109/TON.2025.3615081), ToN
+-   [Decoherence-Aware Entangling and Swapping Strategy Optimization for Entanglement Routing in Quantum Networks](https://arxiv.org/abs/2510.14912), ToN
 -   [Time-Scheduled End-to-End Entanglement Establishment in Memory-Cell-Limited Quantum Networks](https://doi.org/10.1109/TON.2025.3557820), ToN
 -   [Cost-Aware High-Fidelity Entanglement Distribution and Purification in the Quantum Internet](https://doi.org/10.1109/TON.2025.3606263), ToN
 -   [Routing and Spectrum Allocation in Broadband Quantum Entanglement Distribution](https://doi.org/10.1109/JSAC.2025.3548794), JSAC

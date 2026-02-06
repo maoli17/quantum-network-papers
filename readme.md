@@ -4,8 +4,14 @@ This repository collects research papers on quantum networks. We are continuousl
 Since the field of quantum networks is an emerging field, we hope this repository can help researchers quickly find relevant papers.
 
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
+### 2026
+-   [Efficient and Flexible Multi-Qubit Entanglement Transmission in Quantum Networks](https://doi.org/10.1109/TON.2025.3631515), ToN
+-   [Cost-Aware High-Fidelity Entanglement Distribution and Purification in the Quantum Internet](https://doi.org/10.1109/TON.2025.3606263), ToN
+-   [High-Efficient Quantum Key Distribution With Routing and Photon Source Provisioning](10.1109/TON.2025.3639502), ToN
+-   [Joint Routing and Relay Key Allocation in Quantum Key Distribution Networks for Communication Security](https://doi.org/10.1109/TON.2025.3607438), ToN
 
-### 2025]
+
+### 2025
 -   [Multi-Entanglement Routing Design Over Quantum Networks Using Greenberger–Horne–Zeilinger Measurements](https://doi.org/10.1109/TON.2025.3608121), ToN
 -   [Multipath Inter-Domain Routing Protocols for Quantum Networks With Online Path Selection](https://doi.org/10.1109/TON.2025.3615081), ToN
 -   [Decoherence-Aware Entangling and Swapping Strategy Optimization for Entanglement Routing in Quantum Networks](https://arxiv.org/abs/2510.14912), ToN

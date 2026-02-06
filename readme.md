@@ -6,7 +6,6 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 ### 2026
 -   [Efficient and Flexible Multi-Qubit Entanglement Transmission in Quantum Networks](https://doi.org/10.1109/TON.2025.3631515), ToN
--   [Cost-Aware High-Fidelity Entanglement Distribution and Purification in the Quantum Internet](https://doi.org/10.1109/TON.2025.3606263), ToN
 -   [High-Efficient Quantum Key Distribution With Routing and Photon Source Provisioning](10.1109/TON.2025.3639502), ToN
 -   [Joint Routing and Relay Key Allocation in Quantum Key Distribution Networks for Communication Security](https://doi.org/10.1109/TON.2025.3607438), ToN
 

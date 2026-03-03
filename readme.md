@@ -5,6 +5,9 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 ### 2026
+-   [Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks](https://doi.org/10.1109/TON.2026.3663243), ToN
+-   [On the Efficient Extraction of Entangled Resources](https://doi.org/10.1109/TCOMM.2025.3650374), TCOMM
+-   [Quantum Internet Architecture: Unlocking Quantum-Native Routing via Quantum Addressin](https://doi.org/10.1109/TCOMM.2025.3650397), TCOMM
 -   [Efficient and Flexible Multi-Qubit Entanglement Transmission in Quantum Networks](https://doi.org/10.1109/TON.2025.3631515), ToN
 -   [High-Efficient Quantum Key Distribution With Routing and Photon Source Provisioning](10.1109/TON.2025.3639502), ToN
 -   [Joint Routing and Relay Key Allocation in Quantum Key Distribution Networks for Communication Security](https://doi.org/10.1109/TON.2025.3607438), ToN

@@ -5,6 +5,11 @@ Since the field of quantum networks is an emerging field, we hope this repositor
 
 If you have any suggestions or want to add some papers, please don't hesitate to open an issue or submit a pull request.
 ### 2026
+-   [Resource Allocation Based on Topological Rotation Symmetry and Subnet Division for Entanglement Distribution Networks](https://doi.org/10.1109/TNSE.2025.3619499), TNSE
+-   [Enhanced Quantum Communication With Entanglement Twice Routing and Fidelity Improvement](https://doi.org/10.1109/TNSE.2025.3624454), TNSE
+-   [Distributed Entanglement Routing Scheme With Fidelity Guarantee in Quantum Networks](https://doi.org/10.1109/TNSE.2025.3631132), TNSE
+-   [Structural Property of the Optimal Entanglement Policy for Quantum Network Switch: An MDP Approach](https://doi.org/10.1109/TON.2026.3670158), ToN
+-   [Efficient Protocols for Controlled Quantum Teleportation with Single and Multi-Controllers](https://doi.org/10.1109/TON.2026.3669838), ToN
 -   [Swapping and Purification Scheme Optimization for Entanglement Distribution in Quantum Networks](https://doi.org/10.1109/TON.2026.3663243), ToN
 -   [On the Efficient Extraction of Entangled Resources](https://doi.org/10.1109/TCOMM.2025.3650374), TCOMM
 -   [Quantum Internet Architecture: Unlocking Quantum-Native Routing via Quantum Addressin](https://doi.org/10.1109/TCOMM.2025.3650397), TCOMM

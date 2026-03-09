@@ -2,4 +2,5 @@
 *.py
 __pycache__/
 *.py[cod]
-*$py.class 
+*$py.class
+quantum-network-papers.md

@@ -7,6 +7,27 @@ If you have any suggestions or want to add some papers, please don't hesitate to
 
 Last updated: September 9, 2026.
 
+## Browse by topic
+
+Papers may appear under more than one topic.
+
+| Topic | Entries |
+| --- | ---: |
+| [Routing and Entanglement Distribution](topics.md#routing-and-entanglement-distribution) | 126 |
+| [Purification, Fidelity and Error Correction](topics.md#purification-fidelity-and-error-correction) | 45 |
+| [Scheduling and Resource Allocation](topics.md#scheduling-and-resource-allocation) | 70 |
+| [Quantum Switches, Repeaters and Memories](topics.md#quantum-switches-repeaters-and-memories) | 45 |
+| [Network Architecture and Protocols](topics.md#network-architecture-and-protocols) | 49 |
+| [Distributed Quantum Computing](topics.md#distributed-quantum-computing) | 28 |
+| [Multipartite Entanglement and Graph States](topics.md#multipartite-entanglement-and-graph-states) | 25 |
+| [QKD and Network Security](topics.md#qkd-and-network-security) | 18 |
+| [Models, Simulation and Benchmarking](topics.md#models-simulation-and-benchmarking) | 53 |
+| [Physical Links and Network Deployment](topics.md#physical-links-and-network-deployment) | 29 |
+
+## Browse by year
+
+[2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [Earlier](#earlier)
+
 ### 2026
 -   [Entanglement buffering with multiple quantum memories](https://doi.org/10.1038/s41534-025-01161-3), npj Quantum Information
 -   [Analytical computation of entanglement distribution time in first-generation quantum repeater chains](https://doi.org/10.1038/s41534-026-01299-8), npj Quantum Information
